@@ -5,7 +5,7 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=codedevjk&&style=flat-square)    
  
 💫 About Me:
-<br>🌱 I’m currently learning DSA in C and C++<br>🤝 I’m looking for help in learning Web Development.<br>💬 Ask me about Editing and Designing<br>⚡ ⚡ Fun fact: I keep night shift swithed on at all times 
+<br>🌱 I’m currently learning DSA in C and C++<br>🤝 I’m looking for help in learning Web Development.<br>💬 Ask me about Editing and Designing<br>⚡ Fun fact: I keep night shift swithed on at all times 
 <br/>  
 <h3> Connect with me:</h3>
 <p align="left">
