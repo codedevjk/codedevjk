@@ -21,7 +21,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codedevjk&show_icons=true&locale=en" alt="codedevjk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codedevjk&" alt="codedevjk" /></p>
-<p><img align="center" src=(https://github-readme-stats.vercel.app/api/top-langs/?username=codedevjk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedevjk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="codedevjk"/></p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=codedevjk&theme=alduin&no-frame=false&no-bg=false&margin-w=4)
