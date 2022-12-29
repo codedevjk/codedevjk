@@ -30,4 +30,12 @@
 
 </td></tr></table>  
 
-<br/>  
+<br/> 
+
+<h4 align="center">
+ 
+ [![GitHub Streak](https://streak-stats.demolab.com?user=codedevjk&theme=radical)](https://git.io/streak-stats)</h4>
+
+<br/>
+
+[![Jagmohan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=codedevjk&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
