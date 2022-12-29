@@ -3,14 +3,16 @@
 # 💫 About Me:
 <br>🌱 I’m currently learning DSA in C and C++<br>🤝 I’m looking for help in learning Web Development.<br>💬 Ask me about editing and designing<br>⚡ Fun fact is I forget people more quickly.
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jagmohan-kushwaha-05a0b422a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jagmohan-kushwaha-05a0b422a/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/thesmalltownboy_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/thesmalltownboy_/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jagmohan-kushwaha-05a0b422a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jagmohan-kushwaha-05a0b422a/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/thesmalltownboy_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/thesmalltownboy_/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/jk_csai_2125?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/jk_csai_2125?hr_r=1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/codedevjk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/codedevjk/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/codedevjk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/codedevjk/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/codedevjk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/codedevjk/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
