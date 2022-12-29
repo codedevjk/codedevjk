@@ -13,7 +13,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codedevjk&show_icons=true&locale=en" alt="codedevjk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codedevjk&" alt="codedevjk" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codedevjk&" alt="codedevjk" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
