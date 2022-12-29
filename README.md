@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jagmohan Kushwaha</h1>
 <h3 align="center">A full stack developer enthusiast from India</h3>
-💫 About Me:
-🌱 I’m currently learning DSA in C and C++<br>🤝 I’m looking for help in learning Web Development.<br>💬 Ask me about editing and designing<br>⚡ Fun fact is I forget people more quickly.
+# 💫 About Me:
+<br>🌱 I’m currently learning DSA in C and C++<br>🤝 I’m looking for help in learning Web Development.<br>💬 Ask me about editing and designing<br>⚡ Fun fact is I forget people more quickly.
 
 
 <h3 align="left">Connect with me:</h3>
