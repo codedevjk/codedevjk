@@ -26,8 +26,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=codedevjk&theme=alduin&no-frame=false&no-bg=false&margin-w=4)
 
-
----
-[![](https://visitcount.itsvg.in/api?id=codedevjk&icon=5&color=3)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=codedevjk&label=Profile%20Views&color=1&icon=5&pretty=true" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
