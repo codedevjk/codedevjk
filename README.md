@@ -5,7 +5,7 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=codedevjk&&style=flat-square)    
  
 💫 About Me:
-<br>🌱 I’m currently learning DSA in C and C++<br>🤝 I’m looking for help in learning Web Development.<br>💬 Ask me about Editing and Designing<br>⚡ Fun fact: I keep night shift swithed on at all times 
+<br>🌱 I’m currently learning DSA in C and Java<br>🤝 I’m looking for help in learning Web Development.<br>💬 Ask me about Editing and Designing<br>⚡ Fun fact: I keep night shift swithed on at all times 
 <br/>  
 <h3> Connect with me:</h3>
 <p align="left">
@@ -17,7 +17,7 @@
 </p> 
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
+ ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
 # 📊 GitHub Stats:
 
 <table><tr><td valign="top" width="50%">
