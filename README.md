@@ -1,12 +1,27 @@
 <h1 align="center">Hi 👋, I'm Jagmohan Kushwaha</h1>
 <h3 align="center">A full stack developer enthusiast from India</h3>
 <br/>   
+ 
 
-![Profile views counter](https://komarev.com/ghpvc/?username=codedevjk&&style=flat-square)    
+
+
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
+
+<img align="right" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<hr>
+
+
+![Profile views counter](https://komarev.com/ghpvc/?username=codedevjk&&style=flat-square)   
+
  
 💫 About Me:
 <br>🌱 I’m currently learning DSA in C and Java<br>🤝 I’m looking for help in learning Web Development.<br>💬 Ask me about Editing and Designing<br>⚡ Fun fact: I keep night shift swithed on at all times 
 <br/>  
+<br>
 <h3> Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jagmohan-kushwaha-05a0b422a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jagmohan-kushwaha-05a0b422a/" height="30" width="40" /></a>
@@ -15,6 +30,8 @@
 <a href="https://www.leetcode.com/codedevjk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/codedevjk/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/codedevjk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/codedevjk/" height="30" width="40" /></a>
 </p> 
+
+
 
 # 💻 Tech Stack:
  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
