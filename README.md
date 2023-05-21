@@ -22,20 +22,12 @@
 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=codedevjk&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=codedevjk&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedevjk&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/> 
-
-<h4 align="center">
- 
- [![GitHub Streak](https://streak-stats.demolab.com?user=codedevjk&theme=radical)](https://git.io/streak-stats)</h4>
-
-<br/>
+![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=codedevjk&show_icons=true&count_private=true&theme=great-gatsby) 
+</table>
+</br>
 
 [![Jagmohan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=codedevjk&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
